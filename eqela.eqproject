@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Spriteenginev3
+#
+
+projectname: Spriteenginev3
+vendorid: com.spriteenginev3_gica
+mainmodule: com.spriteenginev3_gica.spriteenginev3
